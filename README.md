@@ -22,25 +22,33 @@ _______![1]![1](https://user-images.githubusercontent.com/119482774/204787052-eb
 
 _______Рис.25.1 Папки
 
+ 2.	Настройка параметра Ball
+ 
 _______![3]![2](https://user-images.githubusercontent.com/119482774/204787436-5946f773-9cfe-4b2e-8651-e3fe1a11d98e.jpg)
 
 
  
 _______Рис.25. 2. Настройка параметра Ball 
 
-
+ 3.	Параметры New Sprite
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204788205-15d2e0b3-6c44-4abc-9293-47bcdf40a007.png)
 
 _______ Рис.25. 3. Параметры New Sprite
 
+ 4.	Параметр PLatform
+ 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204788329-960829e4-b269-49ab-9c44-be4466c4a68d.png)
 
 _______Рис.25 4. Параметр PLatform
 
+5.	Настройка MovingBlock
+
 _______![image](https://user-images.githubusercontent.com/119482774/204788450-94890238-6612-4117-a43d-c1bd28cad570.png)
 
 _______Рис. 25 6. Настройка MovingBlock
+
+6.	Параметр MovingBlock
 
 _______![image](https://user-images.githubusercontent.com/119482774/204788587-eabb020c-6e7f-40a3-8798-16fd0240e5d6.png)
 
@@ -50,6 +58,8 @@ _______ ![image](https://user-images.githubusercontent.com/119482774/204788729-3
 
 _______ Рис. 25 8. Параметры MovingBlock (1)
 
+7.	Параметр FallingBlock
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204788799-2ed68b0c-e57a-4cec-8a2b-b9d82426e7db.png)
 
 _______ Рис. 25 9. Параметр FallingBlock
@@ -58,29 +68,43 @@ _______ ![image](https://user-images.githubusercontent.com/119482774/204788892-e
 
 _______ Рис. 25. 10Настройка FallingBlock (1)
 
+8.	Настройка CameraHolder
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789044-459b6cae-699e-43e0-b100-bd965f63c877.png)
 
 _______ Рис. 25. 11 Настройка CameraHolder
+
+9.	Настройка Main Camera
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789119-4928bd44-92a9-41dc-af95-3fc936436faf.png)
 
 _______ Рис. 25. 12 Настройка Main Camera
 
+10.	Параметр JumpHigher и его дочерние объекты
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789245-611ec705-3fcf-4169-9a84-e9a462700e52.png)
 
 _______ Рис. 25. 13 Параметр JumpHigher и его дочерние объекты
+
+11.	Настройка JumpHigher
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789339-959e6a44-4622-4346-b45c-967f98c340e9.png)
 
 _______ Рис. 25. 14 Настройка JumpHigher
 
+12.	Настройка New Sprite
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789417-87787dc4-6cb6-421f-91bd-807159409c1e.png)
 
 _______ Рис. 25. 15 Настройка New Sprite
 
+13.	Параметр SlowMotion и его дочерние объект 
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789505-3668490a-5870-483e-a9ca-0b4ea04335a4.png)
 
 _______  Рис. 25. 16 Параметр SlowMotion и его дочерние объект 
+
+14.	Параметры TextMeshPro
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789569-03a95a84-3c28-4227-94b5-cab5401522ac.png)
 
@@ -90,21 +114,33 @@ _______ ![image](https://user-images.githubusercontent.com/119482774/204789701-0
 
 _______ Рис. 25. 18 Параметры TextMeshPro (1)
 
+15.	Настройка параметра Manager
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789769-054948e6-2d35-41d5-8e31-2ed79c50651a.png)
 
+
+
 _______ Рис. 25. 19 Настройка параметра Manager
+
+16.	Настройка TextMeshPro в параметре fastMotion
 
 _______  ![image](https://user-images.githubusercontent.com/119482774/204789887-146a829e-a8bd-4661-bc6d-b273a6f9e774.png)
 
 _______ Рис. 25. 20 Настройка TextMeshPro в параметре fastMotion
 
+17.	Настройка TextMeshPro в параметре
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204789957-97cb0fac-ac2f-4359-9056-fa1eafedab09.png)
 
 _______ Рис. 25. 21 Настройка TextMeshPro в параметре 
 
+18.	Настройка параметра ElectricPower
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790051-f760c15d-9f12-4c28-99a3-1d5b2d10b9ee.png)
 
 _______ Рис. 25. 22 Настройка параметра ElectricPower
+
+19.	Настройка TextMeshPro в параметре ElectricPower
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790111-b9a94793-4f53-4f7c-a588-21529139ba59.png)
 
@@ -112,21 +148,32 @@ _______ ![image](https://user-images.githubusercontent.com/119482774/204790210-9
 
 _______ Рис. 25. 23 и 25. 24. Настройка TextMeshPro в параметре ElectricPower
 
+20.	Настройка параметра PointObject
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790275-59437dd1-7758-43f7-8c70-d1ae5ed2363d.png)
 
 _______ Рис. 25.  .25 Настройка параметра PointObject
+
+21.	Настройки параметра Line 
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790471-957d4eff-f63e-4fd8-ab76-4a74c91273ae.png)
 
 _______ Рис. 25. 26 Настройки параметра Line 
 
+22.	Настройка параметра ScoreCanvas
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790570-b3e02490-07e4-4d1f-99f1-66cd7733f08c.png)
 
+
 _______ Рис. 25. 27 Настройка параметра ScoreCanvas
+
+23.	Настройка параметра Image в параметре ScoreCanvas
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790773-9a7538be-ec49-4a63-b8ae-854e0205e003.png)
 
 _______ Рис. 25. 28 Настройка параметра Image в параметре ScoreCanvas
+
+24.	Настройка параметра TextMeshPro Text в параметре ScoreCanvas
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204790837-c33f2dfa-8817-4f3e-a406-1a2b509aecbc.png)
 
@@ -136,17 +183,25 @@ _______ ![image](https://user-images.githubusercontent.com/119482774/204790931-e
 
 _______ Рис. 25. 30 Настройка параметра TextMeshPro Text в параметре ScoreCanvas
 
+25. 	Настройка параметра EventSystem Параметр StartCanvas и его дочерние объекты Panel и Button
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204791004-c7a495d0-51aa-4bff-98b2-9d4237c01643.png)
 
 _______ Рис. 25. 31 Настройка параметра EventSystem Параметр StartCanvas и его дочерние объекты Panel и Button
+
+26. 	Настройка параметра StartCanvas
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204791148-5f223f52-039f-4f83-9e2f-72adaee655ee.png)
 
 _______ Рис. 25. 32 Настройка параметра StartCanvas
 
+27. 	Настройка параметра Panel
+
 _______ ![image](https://user-images.githubusercontent.com/119482774/204791194-c5a572ff-6ba6-4f33-b006-39d7f4667c2d.png)
 
 _______ Рис. 25. 33 Настройка параметра Panel
+
+28. 	Настройка параметра TextMeshPro Text в параметре StartCanvas
 
 _______ ![image](https://user-images.githubusercontent.com/119482774/204791256-7f6947e2-ea9f-4e12-9554-c56bc678770f.png)
 
@@ -384,4 +439,5 @@ public class Score : MonoBehaviour
 }
 
 ```
-Вывод: в ходе проделанной работы - разработана игра Bounce 
+Вывод: в ходе проделанной работы - разработана игра Bounce [Отчёт по Bounce.docx](https://github.com/Userfall3000/LB-25/files/10123098/Bounce.docx)
+
